@@ -24,6 +24,8 @@ Bilingual EN/ES, open to remote roles on US Eastern hours.
 |---|---|
 | **[personal-portfolio](https://github.com/mssnzz/personal-portfolio)** | My site. Next.js App Router, two audiences on one codebase, 38 end-to-end tests in CI. |
 | **[kalenday-e2e](https://github.com/mssnzz/kalenday-e2e)** | Playwright suite against a production SaaS: smoke, SEO and responsive coverage, cross-browser. It documents a real defect, unknown routes answering 200 instead of 404. |
+| **[playwright-page-audits](https://github.com/mssnzz/playwright-page-audits)** | Reusable Playwright assertions for the defects that ship quietly: broken images, console errors, sideways scroll, skipped headings, a blank share card. Each audit is tested twice, once on a clean page and once on a page carrying the defect. |
+| **[bayer-dither](https://github.com/mssnzz/bayer-dither)** | Zero-dependency Canvas2D renderer: an image or a line of text as animated dithered marks, drawn in the element's own color. |
 | **[trupdate](https://github.com/mssnzz/trupdate)** | Self-hosted update server for Tauri apps. |
 | **[biper-editor](https://github.com/mssnzz/biper-editor)** | ProseMirror schema setup, built for a Chatwoot deployment. |
 
