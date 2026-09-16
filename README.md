@@ -22,7 +22,7 @@ Bilingual EN/ES, open to remote roles on US Eastern hours.
 
 | | |
 |---|---|
-| **C# and .NET** | Coursework and my own reading. [INF512-Unidad1-POO](https://github.com/mssnzz/INF512-Unidad1-POO) is where the exercises land. |
+| **C# and .NET** | University coursework and my own reading on the side. |
 | **Go** | Early days — picking it up for services and tooling, where its concurrency and single-binary deploys earn their keep. |
 | **Test automation** | Going deeper than the suites already here: fixtures and reuse, flake, and what belongs in CI versus what belongs in a nightly run. |
 
