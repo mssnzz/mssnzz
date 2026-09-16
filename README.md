@@ -18,6 +18,16 @@ Bilingual EN/ES, open to remote roles on US Eastern hours.
 | Testing | Playwright, Cypress, cross-browser and cross-device |
 | Practice | Repro-first bug reports, code review, accessibility, CI |
 
+### Learning right now
+
+| | |
+|---|---|
+| **C# and .NET** | Coursework and my own reading. [INF512-Unidad1-POO](https://github.com/mssnzz/INF512-Unidad1-POO) is where the exercises land. |
+| **Go** | Early days — picking it up for services and tooling, where its concurrency and single-binary deploys earn their keep. |
+| **Test automation** | Going deeper than the suites already here: fixtures and reuse, flake, and what belongs in CI versus what belongs in a nightly run. |
+
+Also studying Systems Engineering at UASD, through 2028.
+
 ### Repositories
 
 | | |
